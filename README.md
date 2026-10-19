@@ -12,6 +12,7 @@ Features
 • MIC5219 LDO: holds 3v3
 • CH340C Serial: Easy USB programming
 • 0805 Footprints: Hand-solder friendly
+
 <img width="590" height="721" alt="image" src="https://github.com/user-attachments/assets/713d7ead-2f05-4e67-bf0b-9c3142ac599b" />
 
 Onboard Parts & Connectors
@@ -22,4 +23,5 @@ Onboard Parts & Connectors
 • 1x04 Socket: OLED module interface
 • 5x Tactile buttons: Music playback controls
 • 2x Tactile Buttons: Boot/Reset flash controls
+
 <img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/d1a8912e-9c80-4ae9-84e7-c0217a4262f7" />

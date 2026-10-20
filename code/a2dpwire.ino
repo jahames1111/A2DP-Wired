@@ -10,10 +10,6 @@
 #define OLED_RESET -1
 #define SCREEN_ADDRESS 0x3C
 
-#define BT_BCK 26
-#define BT_DIN 22
-#define BT_LRCK 25
-
 #define PIN_VOL_UP 14
 #define PIN_VOL_DOWN 13
 #define PIN_PLAY_PAUSE 16
@@ -89,13 +85,6 @@ void setup() {
     display.display();
   }
   
-  i2s_pin_config_t my_pins = {
-    .bck_io_num = BT_BCK,
-    .ws_io_num = BT_LRCK,
-    .data_out_num = BT_DIN,
-    .data_in_num = I2S_PIN_NO_CHANGE
-  };
-  a2dp_sink.set_pin_config(my_pins);
   a2dp_sink.set_avrc_metadata_callback(read_metadata);
   a2dp_sink.set_on_connection_state_changed(connection_state);
   a2dp_sink.start("AudioReceiver");

@@ -11,6 +11,7 @@ Idea: My parents are, well, old, so they have a lot of old wired headphones lyin
 
 
 Portable Bluetooth wired headphones adapter.
+
 Features
 
 • ESP32-WROOM-32E: Bluetooth classic streaming

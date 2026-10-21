@@ -1,16 +1,28 @@
 
 A2DP-Wired headphones adapter
 <img width="646" height="751" alt="image" src="https://github.com/user-attachments/assets/654f31db-9eda-49c6-8ebe-77281fe39f38" />
+Idea: My parents are, well, old, so they have a lot of old wired headphones lying around their house. However, most of these are useless as their phones don't have the right kind of audio connector. I built this project to let them use all of their wired headphones with Bluetooth so they don't have to throw them away.
+
+
+
+
 
 Portable Bluetooth wired headphones adapter.
 Features
 • ESP32-WROOM-32E: Bluetooth classic streaming
+
 • PCM5102A DAC: audio 
+
 • SSD1306 OLED: status screen
+
 • 5V USB-C / LiPo: power
+
 • SPDT Switch: Power input switching
-• MIC5219 LDO: holds 3v3
+
+• MIC5219 LDO: holds 3V3
+
 • CH340C Serial: Easy USB programming
+
 • 0805 Footprints: Hand-solder friendly
 
 <img width="590" height="721" alt="image" src="https://github.com/user-attachments/assets/713d7ead-2f05-4e67-bf0b-9c3142ac599b" />

@@ -1,10 +1,12 @@
 
-A2DP-Wired headphones adapter
+##A2DP-Wired headphones adapter
 
 <img width="646" height="751" alt="image" src="https://github.com/user-attachments/assets/654f31db-9eda-49c6-8ebe-77281fe39f38" />
 
 
-Idea: My parents are, well, old, so they have a lot of old wired headphones lying around their house. However, most of these are useless as their phones don't have the right kind of audio connector. I built this project to let them use all of their wired headphones with Bluetooth so they don't have to throw them away. This combines the best and easiest-to-solder chips that I could possibly find to make a device that turns these old pieces of hardware into useful music streaming tools.
+#Idea:
+
+My parents are, well, old, so they have a lot of old wired headphones lying around their house. However, most of these are useless as their phones don't have the right kind of audio connector. I built this project to let them use all of their wired headphones with Bluetooth so they don't have to throw them away. This combines the best and easiest-to-solder chips that I could possibly find to make a device that turns these old pieces of hardware into useful music streaming tools.
 
 
 
